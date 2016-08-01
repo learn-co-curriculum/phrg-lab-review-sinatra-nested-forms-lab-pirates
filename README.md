@@ -1,16 +1,11 @@
-## Objectives
+## Overview
 
-1. Objective 1
-2. Objective 2
+Make sure that you've completed the [Pirates Lab](https://github.com/learn-co-curriculum/sinatra-nested-forms) before watching this video to get the most of this lesson. 
 
-## Instructions
+We'll go over how to approach and solve the lab. Compare the step-by-step approach taken here with your approach. What can you take from this process to improve your own? 
 
-Make the tests pass.
 
-### Part 1: Do Some Stuff
+<iframe width="100%" height="720" src="https://www.youtube.com/watch?v=kgHN11dQ3H0" frameborder="0" allowfullscreen></iframe>
 
-## Resources
-
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/lab-review-sinatra-nested-forms-lab-pirates'>Lab Review-- Sinatra Nested Forms Lab: Pirates</a> on Learn.co and start learning to code for free.</p>
